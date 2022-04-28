@@ -7,7 +7,9 @@ ___
 *translate a .srt file using the free google translate api you can change the target and source languages from the .py file
 
 options:
-  -h, --help      show this help message and exit
-  -i , --input    the source file PATH
-  -o , --output   the translated file PATH
+
+  |-h| --help  |    show this help message and exit|
+  --------------------------------------------------
+|  -i | --input  |  the source file PATH |
+ | -o | --output |  the translated file PATH|
   
