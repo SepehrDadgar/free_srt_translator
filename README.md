@@ -8,10 +8,8 @@ ___
 
 options:
 
-  |-h| --help  |    show this help message and exit|
-  --
-|  -i | --input  |  the source file PATH |
---
- | -o | --output |  the translated file PATH|
- --
+options:
+  -h, --help      show this help message and exit
+  -i , --input    the source file PATH
+  -o , --output   the translated file PATH
   
